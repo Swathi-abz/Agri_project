@@ -1,0 +1,17 @@
+{
+  "tomato": {
+    "fertilizer": "Apply NPK 19:19:19 during vegetative stage. Use Urea after flowering. Add organic compost before planting."
+  },
+
+  "rice": {
+    "fertilizer": "Apply DAP during sowing. Use Urea in two split doses."
+  },
+
+  "maize": {
+    "fertilizer": "Apply NPK 20:20:0 and Zinc Sulphate."
+  },
+
+  "cotton": {
+    "fertilizer": "Apply FYM before sowing and NPK 120:60:60."
+  }
+}

@@ -1,0 +1,23 @@
+[
+    {
+        "crop": "tomato",
+        "season": "Winter and Summer",
+        "soil": "Well-drained loamy soil",
+        "fertilizer": "Organic compost and NPK fertilizer",
+        "water": "Moderate irrigation"
+    },
+    {
+        "crop": "rice",
+        "season": "Kharif",
+        "soil": "Clay and loamy soil",
+        "fertilizer": "Nitrogen, Phosphorus and Potassium",
+        "water": "High water requirement"
+    },
+    {
+        "crop": "cotton",
+        "season": "Kharif",
+        "soil": "Black cotton soil",
+        "fertilizer": "NPK and organic manure",
+        "water": "Moderate irrigation"
+    }
+]

@@ -1,0 +1,26 @@
+{
+    "crops": [
+        "tomato",
+        "rice",
+        "wheat",
+        "potato",
+        "cotton",
+        "maize"
+    ],
+
+    "diseases": [
+        "early blight",
+        "late blight",
+        "powdery mildew",
+        "leaf curl virus",
+        "bacterial wilt"
+    ],
+
+    "fertilizers": [
+        "NPK",
+        "urea",
+        "DAP",
+        "potash",
+        "compost"
+    ]
+}

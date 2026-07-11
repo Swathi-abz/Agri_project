@@ -1,0 +1,129 @@
+/* =========================
+   AgriAI Dashboard Theme
+========================= */
+
+body{
+    background:#f4f8f2;
+    font-family:'Segoe UI',sans-serif;
+}
+
+/* Sidebar */
+
+.sidebar{
+    background:#198754;
+    min-height:100vh;
+    padding:25px;
+    color:white;
+}
+
+.sidebar h2{
+    text-align:center;
+    font-weight:bold;
+    margin-bottom:30px;
+}
+
+.sidebar a{
+    display:block;
+    color:white;
+    text-decoration:none;
+    padding:12px 15px;
+    margin-bottom:10px;
+    border-radius:10px;
+    transition:.3s;
+    font-size:17px;
+}
+
+.sidebar a:hover{
+    background:#157347;
+    padding-left:22px;
+}
+
+/* Main Area */
+
+.main{
+    padding:35px;
+}
+
+/* Card */
+
+.card{
+    border:none;
+    border-radius:20px;
+}
+
+/* Heading */
+
+.card h2{
+    color:#198754;
+    font-weight:bold;
+}
+
+/* Input */
+
+.form-control{
+
+    height:52px;
+
+    border-radius:10px;
+
+}
+
+/* Dropdown */
+
+.form-select{
+
+    height:50px;
+
+    border-radius:10px;
+
+}
+
+/* Button */
+
+.btn-success{
+
+    border-radius:10px;
+
+    padding:10px 30px;
+
+    font-size:17px;
+
+}
+
+/* Response Box */
+
+.response-box{
+
+    background:#f8f9fa;
+
+    border-radius:12px;
+
+    padding:20px;
+
+    min-height:220px;
+
+    white-space:pre-wrap;
+
+    font-size:16px;
+
+    border-left:6px solid #198754;
+
+}
+
+/* Responsive */
+
+@media(max-width:768px){
+
+.sidebar{
+
+min-height:auto;
+
+}
+
+.main{
+
+padding:15px;
+
+}
+
+}

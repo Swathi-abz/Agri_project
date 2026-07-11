@@ -1,0 +1,46 @@
+[
+    {
+        "crop": "tomato",
+        "disease": "early blight",
+        "fertilizer": "",
+        "keywords": [
+            "brown spots",
+            "leaf disease",
+            "tomato disease"
+        ],
+        "solution": "Early blight in tomato can be controlled by removing infected leaves, improving air circulation, avoiding water on leaves, and applying recommended fungicides like Mancozeb."
+    },
+
+    {
+        "crop": "rice",
+        "disease": "blast",
+        "fertilizer": "",
+        "keywords": [
+            "rice leaf spots",
+            "blast disease"
+        ],
+        "solution": "Rice blast can be managed by using resistant varieties, balanced nitrogen fertilizer, proper irrigation, and suitable fungicide application."
+    },
+
+    {
+        "crop": "wheat",
+        "disease": "rust",
+        "fertilizer": "",
+        "keywords": [
+            "yellow spots",
+            "wheat disease"
+        ],
+        "solution": "Wheat rust management includes resistant varieties, field monitoring, and applying fungicides when infection appears."
+    },
+
+    {
+        "crop": "tomato",
+        "disease": "",
+        "fertilizer": "NPK",
+        "keywords": [
+            "fertilizer",
+            "plant growth"
+        ],
+        "solution": "For tomato crops, balanced NPK fertilizer improves plant growth. Apply fertilizer according to soil condition and crop stage."
+    }
+]

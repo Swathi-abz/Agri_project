@@ -1,0 +1,14 @@
+{
+  "tomato": {
+    "late blight": "Spray Mancozeb 2g/L every 7 days.",
+    "leaf curl": "Control whiteflies and remove infected plants."
+  },
+
+  "rice": {
+    "blast": "Spray Tricyclazole."
+  },
+
+  "maize": {
+    "leaf blight": "Spray Propiconazole."
+  }
+}
